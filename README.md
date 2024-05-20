@@ -1,7 +1,7 @@
 # LangChain CSV Agent Frontend
 
 ![CSV-Agent-View](img/csvagent.png)
-![Watch Demo Video](https://youtu.be/wsW8Sp6VYUw)
+[Watch Demo Video](https://youtu.be/wsW8Sp6VYUw)
 
 ## Description
 
@@ -15,8 +15,8 @@ This is a basic Tkinter frontend that interfaces with a LangChain CSV agent on t
 ## Setup Instructions
 
 1. **Clone the repository**  
-   `git clone <repository-url>`  
-   `cd <repository-directory>`
+   `git clone <https://github.com/amanda-cw/Langchain-CSV-Chat-Agent-with-Tkinter-GUI>`  
+   `cd <Langchain-CSV-Chat-Agent-with-Tkinter-GUI>`
 
 2. **Create a virtual environment**  
    `python -m venv venv`
